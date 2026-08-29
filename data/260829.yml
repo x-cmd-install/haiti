@@ -1,0 +1,57 @@
+about:
+  description: :key: Hash type identifier (CLI & lib)
+  license: MIT
+  homepage: https://noraj.github.io/haiti/
+  head: bc3f3e1
+  archived: false
+  latestVersion: v4.0.0
+  collectedAt: 2026-08-29T07:05:51Z
+timeline:
+  created: 2020-06-22
+  lastCommit: 2026-08-28
+  lastRelease: 2026-01-01
+popularity:
+  star: 999
+  watcher: 13
+  fork: 60
+  release: 19
+  contributor: 5
+  pullRequest: 20
+  issue: 111
+language:
+  Ruby: 19705
+  Dockerfile: 855
+totalLine: 20560
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 3
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 3
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 11
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 11
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 31
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 33
+  last360d:
+    since: 2025-09-03
+    release: 1
+    mergedPR: 32
+    openPR: 1
+    closedIssue: 2
+    openIssue: 0
+    commit: 38
