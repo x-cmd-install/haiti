@@ -4,7 +4,7 @@
 
 :key: Hash type identifier (CLI & lib)
 
-![haiti](https://repo.x-cmd.io/haiti.svg)
+![haiti](https://repo.x-cmd.io/haiti.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,6 @@ x install haiti
 
 - **最新版本**: `v4.0.0` (2026-01-01)
 - **最近提交**: 2026-08-29
-- **发布时间**: 2026-01-01T22:28:28Z
 
 ## 流行度
 
@@ -61,4 +60,4 @@ haiti 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:58:55Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:40:30Z._
