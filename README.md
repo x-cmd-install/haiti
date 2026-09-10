@@ -12,6 +12,18 @@
 x install haiti
 ```
 
+## Code insight
+
+Total: **10,768** lines of code across **43** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 7,674 | 0 | 1 | 2 |
+| Html | 1,443 | 6 | 950 | 13 |
+| Css | 516 | 9 | 39 | 7 |
+| JavaScript | 484 | 25 | 48 | 10 |
+| Ruby | 344 | 138 | 79 | 11 |
+
 ## Source
 
 - **Upstream**: <https://github.com/noraj/haiti>
@@ -36,20 +48,20 @@ x install haiti
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-12 | 0 | 7 | 0 | 0 | 0 | 7 |
 | 90d | 2026-06-12 | 0 | 11 | 0 | 0 | 0 | 11 |
+| last180d | 2026-03-14 | 0 | 32 | 0 | 0 | 0 | 34 |
 | 360d | 2025-09-15 | 1 | 33 | 0 | 2 | 0 | 39 |
+| last720d | 2024-09-20 | 2 | 35 | 0 | 12 | 1 | 96 |
 
-## Code size
+## Distribution status
 
-Total: **10,768** lines of code across **43** files in the top 5 languages.
+Reported by **11** distros on [repology.org](https://repology.org/project/haiti). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 7,674 | 0 | 1 | 2 |
-| Html | 1,443 | 6 | 950 | 13 |
-| Css | 516 | 9 | 39 | 7 |
-| JavaScript | 484 | 25 | 48 | 10 |
-| Ruby | 344 | 138 | 79 | 11 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `4.0.0` | ✅ latest |
+| Nix unstable | `3.0.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -60,4 +72,4 @@ Install metadata for haiti lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:40:29Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:36:25Z._
