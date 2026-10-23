@@ -33,26 +33,35 @@ Total: **10,789** lines of code across **43** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.0.0` (2026-01-01)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 1,007 · **Forks**: 62 · **Open issues**: 111 · **Contributors**: 6
+- **Stars**: 1,006 · **Forks**: 62 · **Open issues**: 111 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 139 · **Open PRs**: 3 · **Closed issues**: 108 · **Open issues**: 3 · **Commits**: 590
+- **Releases**: 19 · **Merged PRs**: 140 · **Open PRs**: 2 · **Closed issues**: 108 · **Open issues**: 3 · **Commits**: 591
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 3 | 3 | 0 | 0 | 2 |
-| last60d | 2026-08-23 | 0 | 8 | 3 | 0 | 0 | 7 |
-| 90d | 2026-07-24 | 0 | 10 | 3 | 0 | 0 | 9 |
-| last180d | 2026-04-25 | 0 | 24 | 3 | 0 | 0 | 23 |
-| 360d | 2025-10-27 | 1 | 39 | 3 | 2 | 0 | 44 |
-| last720d | 2024-11-01 | 2 | 41 | 3 | 12 | 1 | 101 |
+| 30d | 2026-09-23 | 0 | 4 | 2 | 0 | 0 | 3 |
+| last60d | 2026-08-24 | 0 | 9 | 2 | 0 | 0 | 8 |
+| 90d | 2026-07-25 | 0 | 11 | 2 | 0 | 0 | 10 |
+| last180d | 2026-04-26 | 0 | 25 | 2 | 0 | 0 | 24 |
+| 360d | 2025-10-28 | 1 | 40 | 2 | 2 | 0 | 45 |
+| last720d | 2024-11-02 | 2 | 42 | 2 | 12 | 1 | 102 |
+
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/haiti). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `4.0.0` | ✅ latest |
+| Nix unstable | `3.0.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -63,4 +72,4 @@ Install metadata for haiti lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:53:43Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:57:51Z._
