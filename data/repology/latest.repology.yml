@@ -14,8 +14,8 @@
   srcname: haiti
   binname: haiti
   visiblename: haiti
-  version: 4.0.0.r39.g4e76df7
-  origversion: 4.0.0.r39.g4e76df7-1
+  version: 4.0.0.r47.g60879df
+  origversion: 4.0.0.r47.g60879df-1
   status: outdated
   summary: Hash type identifier (CLI & lib).
   licenses:
