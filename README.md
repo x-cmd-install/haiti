@@ -33,26 +33,26 @@ Total: **10,821** lines of code across **43** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.0.0` (2026-01-01)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-26
 
 ## Popularity
 
-- **Stars**: 1,007 · **Forks**: 62 · **Open issues**: 111 · **Contributors**: 6
+- **Stars**: 1,007 · **Forks**: 62 · **Open issues**: 112 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 142 · **Open PRs**: 0 · **Closed issues**: 108 · **Open issues**: 3 · **Commits**: 596
+- **Releases**: 19 · **Merged PRs**: 143 · **Open PRs**: 0 · **Closed issues**: 108 · **Open issues**: 4 · **Commits**: 597
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 5 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-27 | 0 | 11 | 0 | 0 | 0 | 11 |
-| 90d | 2026-07-28 | 0 | 13 | 0 | 0 | 0 | 15 |
-| last180d | 2026-04-29 | 0 | 27 | 0 | 0 | 0 | 28 |
-| 360d | 2025-10-31 | 1 | 42 | 0 | 2 | 0 | 50 |
-| last720d | 2024-11-05 | 2 | 44 | 0 | 12 | 1 | 107 |
+| 30d | 2026-09-27 | 0 | 6 | 0 | 0 | 1 | 9 |
+| last60d | 2026-08-28 | 0 | 10 | 0 | 0 | 1 | 12 |
+| 90d | 2026-07-29 | 0 | 14 | 0 | 0 | 1 | 16 |
+| last180d | 2026-04-30 | 0 | 28 | 0 | 0 | 1 | 29 |
+| 360d | 2025-11-01 | 1 | 43 | 0 | 2 | 1 | 51 |
+| last720d | 2024-11-06 | 2 | 44 | 0 | 12 | 2 | 108 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for haiti lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:56:20Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:22:28Z._
