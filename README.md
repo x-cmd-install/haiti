@@ -41,18 +41,18 @@ Total: **10,821** lines of code across **43** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 143 · **Open PRs**: 0 · **Closed issues**: 108 · **Open issues**: 4 · **Commits**: 597
+- **Releases**: 19 · **Merged PRs**: 143 · **Open PRs**: 1 · **Closed issues**: 108 · **Open issues**: 4 · **Commits**: 597
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 6 | 0 | 0 | 1 | 9 |
-| last60d | 2026-08-28 | 0 | 10 | 0 | 0 | 1 | 12 |
-| 90d | 2026-07-29 | 0 | 14 | 0 | 0 | 1 | 16 |
-| last180d | 2026-04-30 | 0 | 28 | 0 | 0 | 1 | 29 |
-| 360d | 2025-11-01 | 1 | 43 | 0 | 2 | 1 | 51 |
-| last720d | 2024-11-06 | 2 | 44 | 0 | 12 | 2 | 108 |
+| 30d | 2026-09-28 | 0 | 6 | 1 | 0 | 1 | 9 |
+| last60d | 2026-08-29 | 0 | 10 | 1 | 0 | 1 | 12 |
+| 90d | 2026-07-30 | 0 | 14 | 1 | 0 | 1 | 16 |
+| last180d | 2026-05-01 | 0 | 27 | 1 | 0 | 1 | 29 |
+| 360d | 2025-11-02 | 1 | 43 | 1 | 2 | 1 | 51 |
+| last720d | 2024-11-07 | 2 | 44 | 1 | 12 | 2 | 108 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for haiti lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:22:28Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:50:47Z._
