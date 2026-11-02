@@ -14,12 +14,19 @@
   srcname: haiti
   binname: haiti
   visiblename: haiti
-  version: 4.0.0.r47.g60879df
-  origversion: 4.0.0.r47.g60879df-1
+  version: 4.0.0.r49.g2b06f11
+  origversion: 4.0.0.r49.g2b06f11-1
   status: outdated
   summary: Hash type identifier (CLI & lib).
   licenses:
     - MIT
+- repo: homebrew
+  srcname: haiti
+  visiblename: haiti
+  version: 4.0.0
+  origversion: null
+  status: newest
+  summary: Hash type identifier
 - repo: freebsd
   srcname: security/rubygem-haiti-hash
   binname: rubygem-haiti-hash
@@ -52,13 +59,6 @@
     - unknown@pentoo.ch
   categories:
     - app-crypt
-- repo: homebrew
-  srcname: haiti
-  visiblename: haiti
-  version: 4.0.0
-  origversion: null
-  status: newest
-  summary: Hash type identifier
 - repo: nix_stable_25_05
   srcname: haiti
   visiblename: haiti
