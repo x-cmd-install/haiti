@@ -14,11 +14,11 @@ x install haiti
 
 ## Code insight
 
-Total: **11,140** lines of code across **43** files in the top 5 languages.
+Total: **11,283** lines of code across **43** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 8,022 | 0 | 0 | 2 |
+| Json | 8,165 | 0 | 0 | 2 |
 | Html | 1,443 | 6 | 950 | 13 |
 | Css | 516 | 9 | 39 | 7 |
 | JavaScript | 484 | 25 | 48 | 10 |
@@ -33,7 +33,7 @@ Total: **11,140** lines of code across **43** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.0.0` (2026-01-01)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-18
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **11,140** lines of code across **43** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 145 · **Open PRs**: 5 · **Closed issues**: 108 · **Open issues**: 5 · **Commits**: 617
+- **Releases**: 19 · **Merged PRs**: 145 · **Open PRs**: 8 · **Closed issues**: 109 · **Open issues**: 4 · **Commits**: 625
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 4 | 5 | 0 | 2 | 25 |
-| last60d | 2026-09-18 | 0 | 9 | 5 | 0 | 2 | 30 |
-| 90d | 2026-08-19 | 0 | 14 | 5 | 0 | 2 | 34 |
-| last180d | 2026-05-21 | 0 | 25 | 5 | 0 | 2 | 45 |
-| 360d | 2025-11-22 | 1 | 45 | 5 | 2 | 2 | 71 |
-| last720d | 2024-11-27 | 2 | 46 | 5 | 12 | 3 | 127 |
+| 30d | 2026-10-20 | 0 | 3 | 8 | 1 | 1 | 33 |
+| last60d | 2026-09-20 | 0 | 9 | 8 | 1 | 1 | 38 |
+| 90d | 2026-08-21 | 0 | 14 | 8 | 1 | 1 | 42 |
+| last180d | 2026-05-23 | 0 | 25 | 8 | 1 | 1 | 53 |
+| 360d | 2025-11-24 | 1 | 45 | 8 | 3 | 1 | 79 |
+| last720d | 2024-11-29 | 2 | 46 | 8 | 13 | 2 | 135 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for haiti lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:03:00Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:44:51Z._
