@@ -47,12 +47,12 @@ Total: **11,283** lines of code across **43** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 3 | 8 | 1 | 1 | 33 |
-| last60d | 2026-09-22 | 0 | 9 | 8 | 1 | 1 | 38 |
-| 90d | 2026-08-23 | 0 | 14 | 8 | 1 | 1 | 42 |
-| last180d | 2026-05-25 | 0 | 25 | 8 | 1 | 1 | 53 |
-| 360d | 2025-11-26 | 1 | 45 | 8 | 3 | 1 | 79 |
-| last720d | 2024-12-01 | 2 | 46 | 8 | 13 | 2 | 135 |
+| 30d | 2026-10-23 | 0 | 3 | 8 | 1 | 1 | 33 |
+| last60d | 2026-09-23 | 0 | 9 | 8 | 1 | 1 | 38 |
+| 90d | 2026-08-24 | 0 | 14 | 8 | 1 | 1 | 42 |
+| last180d | 2026-05-26 | 0 | 25 | 8 | 1 | 1 | 53 |
+| 360d | 2025-11-27 | 1 | 45 | 8 | 3 | 1 | 79 |
+| last720d | 2024-12-02 | 2 | 46 | 8 | 13 | 2 | 130 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for haiti lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:19:36Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:45:53Z._
