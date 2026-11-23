@@ -1,3 +1,25 @@
+- repo: nix_stable_25_11
+  srcname: haiti
+  visiblename: haiti
+  version: 3.0.0
+  origversion: null
+  status: outdated
+  summary: CLI tool to identify hash types
+  maintainers:
+    - katsho123@outlook.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: haiti
+  visiblename: haiti
+  version: 3.0.0
+  origversion: null
+  status: outdated
+  summary: CLI tool to identify hash types
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
 - repo: aur
   srcname: haiti
   binname: haiti
@@ -14,8 +36,8 @@
   srcname: haiti
   binname: haiti
   visiblename: haiti
-  version: 4.0.0.r68.g31ede99
-  origversion: 4.0.0.r68.g31ede99-1
+  version: 4.0.0.r77.gefc286b
+  origversion: 4.0.0.r77.gefc286b-1
   status: outdated
   summary: Hash type identifier (CLI & lib).
   licenses:
@@ -68,28 +90,6 @@
   summary: CLI tool to identify hash types
   maintainers:
     - katsho123@outlook.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: haiti
-  visiblename: haiti
-  version: 3.0.0
-  origversion: null
-  status: outdated
-  summary: CLI tool to identify hash types
-  maintainers:
-    - katsho123@outlook.com
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: haiti
-  visiblename: haiti
-  version: 3.0.0
-  origversion: null
-  status: outdated
-  summary: CLI tool to identify hash types
-  maintainers:
-    - fallback-mnt-nix@repology
   licenses:
     - MIT
 - repo: nix_unstable
