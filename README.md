@@ -14,11 +14,11 @@ x install haiti
 
 ## Code insight
 
-Total: **11,315** lines of code across **43** files in the top 5 languages.
+Total: **11,363** lines of code across **43** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 8,197 | 0 | 0 | 2 |
+| Json | 8,245 | 0 | 0 | 2 |
 | Html | 1,443 | 6 | 950 | 13 |
 | Css | 516 | 9 | 39 | 7 |
 | JavaScript | 484 | 25 | 48 | 10 |
@@ -33,7 +33,7 @@ Total: **11,315** lines of code across **43** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.0.0` (2026-01-01)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-24
 
 ## Popularity
 
@@ -41,27 +41,18 @@ Total: **11,315** lines of code across **43** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 150 · **Open PRs**: 4 · **Closed issues**: 109 · **Open issues**: 4 · **Commits**: 635
+- **Releases**: 19 · **Merged PRs**: 154 · **Open PRs**: 0 · **Closed issues**: 109 · **Open issues**: 4 · **Commits**: 642
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 8 | 4 | 1 | 1 | 37 |
-| last60d | 2026-09-25 | 0 | 13 | 4 | 1 | 1 | 47 |
-| 90d | 2026-08-26 | 0 | 19 | 4 | 1 | 1 | 50 |
-| last180d | 2026-05-28 | 0 | 29 | 4 | 1 | 1 | 61 |
-| 360d | 2025-11-29 | 1 | 50 | 4 | 3 | 1 | 89 |
-| last720d | 2024-12-04 | 2 | 51 | 4 | 13 | 2 | 140 |
-
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/haiti). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `4.0.0` | ✅ latest |
-| Nix unstable | `3.0.0` | ⚠️ outdated |
+| 30d | 2026-10-26 | 0 | 11 | 0 | 1 | 0 | 44 |
+| last60d | 2026-09-26 | 0 | 17 | 0 | 1 | 1 | 54 |
+| 90d | 2026-08-27 | 0 | 23 | 0 | 1 | 1 | 57 |
+| last180d | 2026-05-29 | 0 | 33 | 0 | 1 | 1 | 68 |
+| 360d | 2025-11-30 | 1 | 54 | 0 | 3 | 1 | 96 |
+| last720d | 2024-12-05 | 2 | 55 | 0 | 13 | 2 | 147 |
 
 ## Improve this data
 
@@ -72,4 +63,4 @@ Install metadata for haiti lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:16:22Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:49:23Z._
